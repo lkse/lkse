@@ -6,7 +6,6 @@ I am a Amateur Software Dev.
 Im Learning Several programming languages including JavaScript, Python, And Discord.js.
 
 <br><br><hr>
-
 ## GitHub Statistics
 <details>
   <summary>
