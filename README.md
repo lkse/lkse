@@ -5,7 +5,6 @@ I am a Amateur Software Dev.
 
 Learning Several programming languages including JavaScript, Python, And Discord.js.
 
----
 
 <br><br><hr>
 
