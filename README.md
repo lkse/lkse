@@ -23,7 +23,7 @@ JavaScript、Python、Discord.jsを含むいくつかのプログラミング言
 
 ## 情報
 
-### 現在のプロジェクト(s)
+### 現在のプロジェクト
 -👨‍💻:  
 1. [マトリックス・ネットワーク](https://github.com/MatrixNetworks)  
 2. [ミルク](近日公開)
