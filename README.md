@@ -14,8 +14,7 @@ JavaScript、Python、Discord.jsを含むいくつかのプログラミング言
   </summary>
   <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkse&show_icons=true&theme=dark" alt="Loki" height="200"/>。
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkse&hide=lua&theme=dark" alt="lkse's GitHub統計"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=lkse&theme=dark" width="1200"></div> </div
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkse&theme=dark" alt="lkse's GitHub統計"/>
   </p>
 </details>
 
