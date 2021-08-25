@@ -1,3 +1,4 @@
+# English(https://github.com/lkse/lkse/blob/lkse/readme_en.md)
 # こんにちは！👋。
 私は**Loki**ですが、ほとんどの人は**lk**と呼んでいます。
 
