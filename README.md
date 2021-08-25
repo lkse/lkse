@@ -3,8 +3,7 @@ I'm **Loki** but most people just call me **lk**,
 
 I am a Amateur Software Dev. 
 
-Learning Several programming languages including JavaScript, Python, And Discord.js.
-
+Im Learning Several programming languages including JavaScript, Python, And Discord.js.
 
 <br><br><hr>
 
