@@ -37,7 +37,7 @@
   background-size: 300%;
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
-  background-image: linear-gradient(-60deg, #000000 0%, #ffffff 50%, #000000 100%);
+  background-image: linear-gradient(-60deg, #1a8ce9 40%, #0b304e 80%, #1a8ce9 100%);
 }
 
 .message-2qnXI6[data-user-id="281376608038813696"]> :not(.repliedMessage-VokQwo) .username-1A8OIy,
