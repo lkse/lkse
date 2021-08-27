@@ -33,6 +33,8 @@ JavaScript、Python、Discord.jsを含むいくつかのプログラミング言
   -👨‍🏫:
 1. JS
 2. Python
+3. HTML
+4. CSS
 
 ---
 
