@@ -33,6 +33,9 @@ Im Learning Several programming languages including JavaScript, Python, And Disc
   - 👨‍🏫:
 1. JS
 2. Python
+3. HTML
+4. CSS
+
 
 ---
 
