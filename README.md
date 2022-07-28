@@ -4,7 +4,7 @@
 
 私はアマチュアのソフトウェア開発者です。
 
-JavaScript、Python、Discord.jsを含むいくつかのプログラミング言語を学んでいます。
+JavaScript、Python を含むいくつかのプログラミング言語を学んでいます。
 
 <br><br><hr>。
 ## GitHub統計
@@ -24,8 +24,7 @@ JavaScript、Python、Discord.jsを含むいくつかのプログラミング言
 
 ### 現在のプロジェクト
 -👨‍💻:  
-1. [マトリックス・ネットワーク](https://github.com/MatrixNetworks)  
-2. [ミルク](近日公開)
+
 
 ---
 
@@ -33,8 +32,7 @@ JavaScript、Python、Discord.jsを含むいくつかのプログラミング言
   -👨‍🏫:
 1. JS
 2. Python
-3. HTML
-4. CSS
+3. C++ (孰れ)
 
 ---
 
