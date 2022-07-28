@@ -3,7 +3,7 @@ I'm **Loki** but most people just call me **lk**,
 
 I am a Amateur Software Dev. 
 
-Im Learning Several programming languages including JavaScript, Python, And Discord.js.
+Im Learning Several programming languages including JavaScript, and Python
 
 <br><br><hr>
 ## GitHub Statistics
@@ -24,8 +24,7 @@ Im Learning Several programming languages including JavaScript, Python, And Disc
 
 ### Current Project(s)
 - 👨‍💻:  
-1. [Matrix Networks](https://github.com/MatrixNetworks)  
-2. [Milk](soon!)
+
 
 ---
 
@@ -33,8 +32,7 @@ Im Learning Several programming languages including JavaScript, Python, And Disc
   - 👨‍🏫:
 1. JS
 2. Python
-3. HTML
-4. CSS
+3. C++ (Eventually)
 
 
 ---
