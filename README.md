@@ -5,8 +5,6 @@
 僕はデベロッパーです。
 今はデベロッパになるための創業スキルを学んでいるところです。
 
-Im Learning The foundation for my programming skills.
-
 <br><br><hr>
 ## GitHub 統計情報
 <details>
