@@ -1,9 +1,9 @@
 # Hello! 👋
 I'm **Loki** but most people just call me **lk**, 
 
-I am a Amateur Software Dev. 
+I am a Developer
 
-Im Learning Several programming languages including JavaScript, and Python
+Im Learning The foundation for my programming skills.
 
 <br><br><hr>
 ## GitHub Statistics
@@ -14,7 +14,6 @@ Im Learning Several programming languages including JavaScript, and Python
   <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkse&show_icons=true&theme=dark" alt="Loki" height="200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkse&hide=lua&theme=dark" alt="lkse's Github Stats"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=lkse&theme=dark" width="1200"></div>
   </p>
 </details>
 
@@ -24,27 +23,21 @@ Im Learning Several programming languages including JavaScript, and Python
 
 ### Current Project(s)
 - 👨‍💻:  
-
+1. [Kawata](https://github.com/kawatapw)
 
 ---
 
 ## Currently Studying
   - 👨‍🏫:
-1. JS
-2. Python
-3. C++ (Eventually)
+1. Python
+2. C++ (Eventually)
 
 
 ---
 
 ## Contact Info
-- 📫: `lksenpi@gmail.com`
+- 📫: [`lkse.codes`](mailto:lk@lkse.codes)
 1. [Twitter](https://twitter.com/lksen)
 2. [Discord](https://discordapp.com/users/445053396227981323)
-
----
-
-- 😄 Pronouns: 
-1. He/Him
 
 ---
