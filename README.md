@@ -1,5 +1,5 @@
 # [English](https://github.com/lkse/lkse/blob/lkse/readme_en.md)
-#こんにちは！👋。
+# こんにちは！👋。
 **ロキ**ですが、ほとんどの人は**lk**と呼びます。 
 
 僕はデベロッパーです。
