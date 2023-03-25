@@ -1,43 +1,16 @@
 # [English](https://github.com/lkse/lkse/blob/lkse/readme_en.md)
-# こんにちは！👋。
-**ロキ**ですが、ほとんどの人は**lk**と呼びます。 
+<br>
+<img align="center", src="https://github.com/lkse/lkse/blob/6b357815cee6ff7c85d7f80d04605ac8733e88ec/aboutme_jp.png">
+</br>
 
-僕はデベロッパーです。
-今はデベロッパになるための創業スキルを学んでいるところです。
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkse&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=213647&icon_color=7a7adb&bg_color=0,ddddde,c5d2fa" alt="lkse's Github Stats">
 
-<br><br><hr>
-## GitHub 統計情報
-<details>
-  <summary>
-    :bar_chart: クリックすると GitHub の統計情報を表示します。
-  </summary>
-  <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkse&show_icons=true&theme=dark" alt="Loki" height="200"/>
-<img align="center" src="https://github-readme- stats.vercel.app/api/top-langs/?username=lkse&hide=lua&theme=dark" alt="lkseのGithub統計"/>。
-  </p>
-</details>
-
---- 
-
-## 情報
-
-### 現在進行中のプロジェクト(複数)
-- 👨‍💻:  
-1. [川田](https://github.com/kawatapw)
-
----
-
-## 現在勉強していること
-  - 👨‍🏫:
-1. Python
-2. C++ (いずれは)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkse&title_color=213647&icon_color=7a7adb&bg_color=0,ddddde,c5d2fa)](https://github.com/devSouvik/github-readme-stats)
 
 
----
 
-## 連絡先
-- 📫: [`lkse.codes`](mailto:lk@lkse.codes)
 1. [ツイッター](https://twitter.com/lksen)
 2. [Discord](https://discordapp.com/users/445053396227981323)
 
----
+
+
