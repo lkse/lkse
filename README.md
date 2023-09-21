@@ -9,7 +9,7 @@
 
 
 
-1. [ツイッター](https://twitter.com/lksen)
+1. [ツイッター](https://twitter.com/lksenp)
 2. [Discord](https://discordapp.com/users/445053396227981323)
 
 
